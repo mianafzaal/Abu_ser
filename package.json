@@ -1,5 +1,5 @@
 {
-  "name": "Abu_ser",
+  "name": "Mian_ser",
   "version": "7.3.6",
   "description": "Abu is the Modified Version of WhatsAsena, Made By @Afx-Abu with Baileys.",
   "main": "./Abu_ser/bot.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Afx-Abu/Abu_ser.git"
+    "url": "git+https://github.com/mianafzaal/Abu_ser.git"
   },
   "keywords": [
     "whatsapp",
